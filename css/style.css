@@ -3,7 +3,7 @@
     margin: 0;
 }
 nav{
-    background-color: white;
+    background-color: rgb(182, 182, 182);
     width: 100%;
     position: fixed;
     z-index: 10;
